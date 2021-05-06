@@ -3,7 +3,7 @@
  Projeto realizado durante a semana NLW. 
 
 <p align="center">
-  <img src = "https://github.com/lucasdevitto/Podcast/blob/main/WhatsApp%20Image%202021-04-24%20at%2020.34.07.jpeg" height="700">
+  <img src = "https://github.com/lucasdevitto/Podcast/blob/main/WhatsApp%20Image%202021-04-24%20at%2020.34.07.jpeg" weigth="950" height="700">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
